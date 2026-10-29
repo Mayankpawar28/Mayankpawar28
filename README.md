@@ -26,17 +26,23 @@ Currently focused on AI/ML engineering — LLM security, fraud detection, comput
 
 ## Skills
 
-**Languages**
-`Python` `Java` `JavaScript` `SQL` `C++`
+**Programming**
+`Python` `Java` `SQL`
 
-**ML / AI**
-`scikit-learn` `TensorFlow` `Keras` `TFLite` `XGBoost` `SHAP` `SMOTE` `OpenCV` `FaceNet` `MTCNN` `MediaPipe` `sentence-transformers`
+**Machine Learning**
+`Scikit-learn` `Pandas` `NumPy` `TensorFlow`
 
-**Web & Backend**
-`Flask` `FastAPI` `Spring Boot` `React` `MongoDB` `MySQL` `REST APIs` `WebSockets`
+**Generative AI & NLP**
+`LLMs` `Transformers` `NLP` `Prompt Engineering`
 
-**Tools & Platforms**
-`Git` `GitHub` `Docker` `Google Colab` `Streamlit` `AWS S3` `Render` `Postman`
+**Backend**
+`FastAPI` `Flask` `REST APIs`
+
+**Databases**
+`MongoDB` `MySQL`
+
+**Tools**
+`Git` `GitHub` `Docker`
 
 ---
 
